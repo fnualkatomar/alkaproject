@@ -35,6 +35,7 @@ public class RentMain {
 		
 		RentAttributes obj4 = new RentAttributes("Shiv", new BigDecimal(500), new BigDecimal(0), new BigDecimal(2100), 700, 980, 700);
 		RentAttributes obj5 = new RentAttributes("RashmiSSSS", new BigDecimal(800), new BigDecimal(0), new BigDecimal(2100), 700, 980, 750);
+		RentAttributes obj6 = new RentAttributes("RashmiSSSS", new BigDecimal(800), new BigDecimal(0), new BigDecimal(2100), 700, 980, 750);
 
 	}
 
